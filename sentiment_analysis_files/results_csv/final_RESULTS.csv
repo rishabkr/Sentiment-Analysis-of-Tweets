@@ -1,0 +1,8 @@
+﻿Model Name,F1-score
+Support Vector Machines(Linear Kernel),0.525
+Support Vector Machines(RBF Kernel),0.645
+Naïve Bayes Classifier (ComplementNB),0.6112
+Naïve Bayes Classifier (MultinomialNB),0.592
+Convolution Neural Networks with Bidirectional LSTM’s and Universal Sentence Encoder,0.575
+Convolution Neural Networks with Bidirectional LSTM’s with GLoVE Embeddings,0.6635
+BERT,0.7501
